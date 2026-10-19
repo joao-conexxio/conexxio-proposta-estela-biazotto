@@ -1,0 +1,267 @@
+{
+  "slug": "estela-biazotto",
+  "negocio": {
+    "nome": "Dra. Estela Biazotto",
+    "whatsapp": "5534999410603",
+    "telefone": "(34) 99941-0603",
+    "unidades": [
+      {
+        "bairro": "Uberlândia · MG",
+        "horario": "Atendimento com hora marcada"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#8A5458",
+    "brand2": "#57323A",
+    "ink": "#2A1F22",
+    "bg": "#FBF7F4",
+    "pulse": "#B5776C",
+    "radius": "2px",
+    "registro": "editorial",
+    "fontDisplay": "Bodoni Moda",
+    "fontBody": "Manrope",
+    "tomHero": "claro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Como funciona",
+            "href": "#como-funciona"
+          },
+          {
+            "texto": "Dúvidas",
+            "href": "#faq"
+          },
+          {
+            "texto": "Contato",
+            "href": "#contato"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "split-motivo",
+      "data": {
+        "eyebrow": "Harmonização facial · Uberlândia",
+        "h1": "Sem cara de procedimento",
+        "lead": "Um rosto descansado, com toxina, preenchimento, bioestimuladores e Ultherapy planejados por uma ortodontista formada pela UNICAMP, que trabalha com harmonização facial desde 2015.",
+        "cta": "Agendar avaliação",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "arte": "grao"
+      }
+    },
+    {
+      "id": "fita",
+      "data": {
+        "itens": [
+          "Toxina botulínica",
+          "Preenchimento labial",
+          "Bioestimulador de colágeno",
+          "Fios de PDO",
+          "Ultherapy",
+          "Invisalign"
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "gigante",
+      "data": {
+        "titulo": "Trajetória",
+        "itens": [
+          {
+            "valor": "11 anos",
+            "rotulo": "de harmonização facial, desde 2015",
+            "contar": 11
+          },
+          {
+            "valor": "2012",
+            "rotulo": "formada em Odontologia pela UNICAMP"
+          },
+          {
+            "valor": "21 mil",
+            "rotulo": "pessoas acompanham os bastidores no Instagram"
+          }
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "faixa",
+      "data": {
+        "eyebrow": "Do sorriso ao rosto inteiro",
+        "citacao": "O resultado certo é aquele que ninguém consegue apontar.",
+        "texto": [
+          "Estela se formou em Odontologia pela UNICAMP em 2012 e começou pela ortodontia — um trabalho de milímetros, em que cada ajuste mexe no equilíbrio do rosto inteiro. Em 2015 levou esse olhar para a harmonização facial.",
+          "Daí vem o critério de cada indicação: mexer pouco, no lugar certo e na ordem certa. Quem convive com você repara no rosto descansado. Ninguém precisa saber o porquê."
+        ]
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "Tratamentos",
+        "lead": "Cada plano parte da leitura do rosto parado e em movimento. Nada é indicado isolado do conjunto.",
+        "itens": [
+          {
+            "nome": "Toxina botulínica",
+            "descricao": "Suaviza as linhas da testa, entre as sobrancelhas e ao redor dos olhos. A dose é calculada para o rosto continuar se mexendo: expressão descansada, não congelada."
+          },
+          {
+            "nome": "Preenchimento com ácido hialurônico",
+            "descricao": "Lábios, olheiras, maçãs do rosto, mandíbula e queixo. Volume reposto onde o suporte mudou com o tempo, respeitando o formato que já é seu."
+          },
+          {
+            "nome": "Bioestimuladores de colágeno",
+            "descricao": "Fazem a pele voltar a produzir colágeno. A firmeza aparece aos poucos, ao longo dos meses — por isso ninguém nota a mudança de um dia para o outro."
+          },
+          {
+            "nome": "Fios de PDO",
+            "descricao": "Fios absorvíveis que dão sustentação e estimulam colágeno no trajeto em que são colocados."
+          },
+          {
+            "nome": "Ultherapy",
+            "descricao": "Ultrassom microfocado que chega às camadas profundas da pele para tratar flacidez de rosto e pescoço, sem corte."
+          },
+          {
+            "nome": "Alinhadores Invisalign",
+            "descricao": "Ortodontia com alinhadores transparentes, planejada por quem é ortodontista de formação. O sorriso também faz parte da harmonia do rosto."
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Como funciona",
+        "lead": "Do primeiro contato ao retorno, com o que esperar dito antes.",
+        "itens": [
+          {
+            "titulo": "Conversa pelo WhatsApp",
+            "texto": "Você conta o que incomoda e tira as primeiras dúvidas. A avaliação é marcada por ali."
+          },
+          {
+            "titulo": "Avaliação",
+            "texto": "Leitura do rosto parado e em movimento: o que vale tratar e, principalmente, o que já está bom e não precisa mexer."
+          },
+          {
+            "titulo": "Plano por etapas",
+            "texto": "A ordem dos procedimentos e o que esperar de cada um, inclusive quanto tempo o resultado leva para aparecer."
+          },
+          {
+            "titulo": "Retorno",
+            "texto": "Revisão depois que o resultado assenta, para ajustar o que for preciso."
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpo-clinico",
+      "variant": "lista",
+      "data": {
+        "titulo": "Quem atende",
+        "itens": [
+          {
+            "nome": "Dra. Estela Biazotto",
+            "registro": "CRO-MG 57636",
+            "especialidade": "Ortodontia e harmonização facial · Odontologia UNICAMP, 2012"
+          }
+        ]
+      }
+    },
+    {
+      "id": "depoimentos",
+      "variant": "citacoes",
+      "data": {
+        "titulo": "Quem já passou por lá",
+        "itens": [
+          {
+            "texto": "Passa segurança e deixa a gente à vontade para tirar todas as dúvidas.",
+            "autor": "Karen J.",
+            "contexto": "Avaliação no Google"
+          },
+          {
+            "texto": "Única que quis mexer no meu dente, e fez realmente com formato de dente. Outros profissionais fizeram só um reboco de resina.",
+            "autor": "Karine A.",
+            "contexto": "Avaliação no Google"
+          },
+          {
+            "texto": "Muito competente, inteligente, carinhosa e prestativa. Recomendo fortemente.",
+            "autor": "Marina E.",
+            "contexto": "Avaliação no Google"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "acordeao",
+      "data": {
+        "titulo": "Dúvidas frequentes",
+        "itens": [
+          {
+            "p": "Dentista pode fazer harmonização facial?",
+            "r": "Pode. O Conselho Federal de Odontologia reconhece a harmonização orofacial como especialidade desde 2019. A Dra. Estela tem registro no CRO-MG (57636) e trabalha com harmonização desde 2015."
+          },
+          {
+            "p": "Vou ficar com cara de procedimento?",
+            "r": "É esse o critério que orienta a indicação: dose, ponto de aplicação e ordem são escolhidos para preservar a sua expressão. A ideia é que reparem no rosto descansado, não no que foi feito."
+          },
+          {
+            "p": "Dói?",
+            "r": "Na maior parte das aplicações usa-se anestésico tópico antes. O incômodo costuma ser leve e passageiro, mas varia de pessoa para pessoa e de procedimento para procedimento."
+          },
+          {
+            "p": "Posso voltar à rotina no mesmo dia?",
+            "r": "Na maioria dos procedimentos, sim. Pode haver inchaço ou pequenos roxos nos primeiros dias, o que é esperado e temporário. As orientações do seu caso são passadas na consulta."
+          },
+          {
+            "p": "Quanto tempo dura o resultado?",
+            "r": "Depende do procedimento e de cada organismo: em geral alguns meses no caso da toxina, mais tempo em preenchimentos e bioestimuladores. A previsão do seu caso sai na avaliação."
+          }
+        ]
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "bloco-cheio",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Uma conversa sobre o que te incomoda no espelho, e sobre o que não precisa mexer.",
+        "cta": "Conversar no WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "completo",
+      "data": {
+        "links": [
+          {
+            "texto": "Instagram",
+            "href": "https://www.instagram.com/draestelabiazotto/"
+          },
+          {
+            "texto": "WhatsApp",
+            "href": "https://wa.me/5534999410603"
+          }
+        ],
+        "aviso": "Resultados variam de pessoa para pessoa e dependem de avaliação individual. O conteúdo desta página é informativo e não substitui consulta."
+      }
+    }
+  ]
+}
